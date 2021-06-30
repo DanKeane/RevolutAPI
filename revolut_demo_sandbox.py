@@ -1,4 +1,4 @@
-import revolutAPI as rev
+import revolutAPI_sandbox as rev
 import time
 import string
 import random

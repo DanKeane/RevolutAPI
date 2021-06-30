@@ -1,6 +1,6 @@
 import requests
 import json
-import revolut_at as rev_at
+import revolut_fe_live as rev_at
 
 
 with open('access_token_list_real.txt') as json_file:
